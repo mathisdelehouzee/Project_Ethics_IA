@@ -1,0 +1,16 @@
+Enoncé et exploration : 
+
+-Contexte et enjeux (statistique aussi).
+
+La chine a récemment déclaré sa volonté d'instaurer un dispositif de crédit social à sa population. L'objectif est d'attribuer des points (crédits) à chaque individus
+grâce à des caméras intelligentes utilisant un algorithme de reconnaissance faciale. Chacun recevra donc des points en fonction de son comprtement et ses antécédents.
+À l'heure actuelle, la chine dispose de 170 millions de caméras de ce type. Á l'avenir, le pays compte en installer 450 millions.
+Le principal argument du gouvernement chinois concerne la sécurité que ce dispositif procure. En effet, elles permettent de prévenir tout débordement ou danger 
+et d'intervenir très rapidement en cas de problème.
+
+La question se pose alors sur les dérives de cette méthode. Qui attribue les points ? Jusqu'où notre comportement peut-il influencer notre liberté ? Est-ce qu'il
+s'agit d'un abus de pouvoir ? 
+
+L'idée est venue d'un constat : faut-il payer les frais médicaux aux personnes qui ont un comportement dangereux en traversant la rue ? 
+
+

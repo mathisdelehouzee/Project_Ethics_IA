@@ -29,3 +29,9 @@ On obtient souvent un écart de 50% de faux positif en moins lorsqu'on fait l'é
 				||| L'approche actuarielle |||
 Approche statistique standard dévelloppée dans différents domaines de prédiction. 
 Stratégie d'évaluation du risque : intuitive, clinique, actuarielle, actuarielle ajustée : jugement structuré  ,dynamique.
+
+Il n'y a pas de corrélation linéaire entre le temps passé libéré et le temps de récidive.
+voir courbe de survie (On voit que la ligne est très élevée mais plus tard elle se stabilise et reste constante).
+Il y a un algorithme fonctionnant sur le principe de valeur seuil. Un score est donné en fonction de certains critères.
+
+Limite de l'approche : stratégie linéaire et sommatrice => Sommes des critères pondérés pour fixer son jugement.
